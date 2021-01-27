@@ -1,5 +1,8 @@
 # weather-widget
 
+## Demo
+![](demo.gif)
+
 ## Project setup
 ```
 npm install
