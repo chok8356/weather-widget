@@ -1,9 +1,0 @@
-@import "./bem";
-@import "./vars";
-@import "./scrollbar";
-
-%text-hide {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
